@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "884756195847",
+    "project_id": "pratique1-2e129",
+    "storage_bucket": "pratique1-2e129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884756195847:android:e2ea094e8e8ed9a0b258a2",
+        "android_client_info": {
+          "package_name": "com.example.pratique1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884756195847-2fhfd8n9i00h0nrtr7hks5mo9nv64ufh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxG8eAFpxOQbrcrE40Qvru5vT6W5So5_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884756195847-2fhfd8n9i00h0nrtr7hks5mo9nv64ufh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
